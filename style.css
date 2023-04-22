@@ -113,6 +113,8 @@ p {
   background-color: black;
   opacity: 50%;
   border-radius: 50px;
+  align-items: center;
+  justify-content: center;
 }
 
 .banner h1 {
@@ -186,11 +188,14 @@ color: gray;
   } */
   .banner{
     position: absolute;
-    /* top: 50%; */
-    left: 30%;
+    top: 50%;
+    left: 10%;
+    right: 0%;
     background-color: black;
     opacity: 50%;
     border-radius: 50px;
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -219,8 +224,11 @@ font-size: 36px;
   position: absolute;
   top: 50%;
   left: 30%;
+  right: 0%;
   background-color: black;
   opacity: 50%;
   border-radius: 50px;
+  align-items: center;
+  justify-content: center;
 }
 }
